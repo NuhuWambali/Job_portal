@@ -1,0 +1,38 @@
+.navbar{
+    background-color: #0cb189;
+}
+.modal, .modal-header, .modal-body, .modal-footer{
+    background-color: #0cb189;
+}
+.btn{
+    background-color: #fff;
+    color:#0cb189;
+   border:1px solid #0cb189;
+}
+.fa-map-marker{
+  color:#0cb189;
+}
+.home{
+    color:#0cb189;
+}
+label{
+    color:#fff;
+}
+.label{
+    color:#939393
+}
+.form-control{
+    color:#0cb189;
+}
+.heading{
+color:#0cb189;
+}
+.home{
+    color:#0cb189;
+}
+.text-center{
+    color:#fff;
+}
+.text-center1{
+    color:#0cb189;
+}
