@@ -135,7 +135,6 @@ include 'constants/check-login.php';
 							<li><a href="login.php">login</a></li>
 							<li><a data-toggle="modal" href="#registerModal">register</a></li>';						
 						}
-						
 						?>
 
 						</ul>
@@ -146,8 +145,6 @@ include 'constants/check-login.php';
 				<div id="slicknav-mobile"></div>
 				
 			</nav>
-
-			
 			<div id="registerModal" class="modal fade login-box-wrapper" tabindex="-1" style="display: none;" data-backdrop="static" data-keyboard="false" data-replace="true">
 			
 				<div class="modal-header">
